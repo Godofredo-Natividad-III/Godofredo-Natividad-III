@@ -10,7 +10,7 @@ I am a passionate IT student at XU Ateneo De Cagayan, driven by a curiosity for 
 - 📫 How to reach me: <20210022901@my.xu.edu.ph>
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,discord,vscode)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 - 🚀 Learning Full Stack Web Development
@@ -18,7 +18,6 @@ I am a passionate IT student at XU Ateneo De Cagayan, driven by a curiosity for 
   - Building server-side applications with Django or Express.js.
 
 ## 🏆 Achievements
-- 🌟 Completed Git & GitHub Setup 2024
-- 🔭 I’m currently working on my final API project.
+- 🔭 I’m currently Learning on my final API project.
 
 Thanks for stopping by!
