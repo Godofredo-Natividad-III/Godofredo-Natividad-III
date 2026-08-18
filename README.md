@@ -9,6 +9,11 @@ I am a passionate IT student at XU Ateneo De Cagayan, driven by a curiosity for 
 - 💬 Ask me about ...
 - 📫 How to reach me: <20210022901@my.xu.edu.ph>
 
+Fun Facts
+A cloud stays up because it is less dense than the warm air below it.
+Earth's days get longer by a tiny bit every century because the planet spins slower.
+Mars is not round like Earth; it is shaped more like a rugby ball.
+
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,discord,vscode)](https://skillicons.dev)
