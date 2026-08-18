@@ -8,6 +8,7 @@ I am a passionate IT student at XU Ateneo De Cagayan, driven by a curiosity for 
 - 🌱 I’m currently learning Full Stack Web Development and API creation.
 - 💬 Ask me about ...
 - 📫 How to reach me: <20210022901@my.xu.edu.ph>
+- Fun Fact Yohan is Gay
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,discord,vscode)](https://skillicons.dev)
